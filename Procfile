@@ -1,0 +1,1 @@
+web: gunicorn nisa.wsgi --log-file -
